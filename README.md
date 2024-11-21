@@ -60,8 +60,8 @@ cd /var/www/html
 ls
 cat file  # Verify shared access by reading content created in Instance 1
 ```
-### REGISTER NUMBER: 212222100033
-### NAME : PERARASU M
+### REGISTER NUMBER: 212222100035
+### NAME : PRAKASH M
 
 ## OUTPUT :
 
